@@ -2,7 +2,6 @@
     color:rgb(0, 153, 255);
    }
 
-
 dt {
     text-align: center;
     text-decoration: underline;
@@ -18,12 +17,11 @@ h1 {
     
 }
 
-
 h2 {
     color: rgb(0, 153, 255)
     
 }
-  th {
+th {
     color: black
   }
 
@@ -38,7 +36,6 @@ h3 {
     text-align: center;
     color: black;
 }
-
 
 th {
     color:rgb(0, 153, 255);
